@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/are-you-there/static/css/main.e6c13ad2.css",
+    "main.js": "/are-you-there/static/js/main.b90f3c2b.js",
+    "static/js/787.0c3f432a.chunk.js": "/are-you-there/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/are-you-there/index.html",
+    "main.e6c13ad2.css.map": "/are-you-there/static/css/main.e6c13ad2.css.map",
+    "main.b90f3c2b.js.map": "/are-you-there/static/js/main.b90f3c2b.js.map",
+    "787.0c3f432a.chunk.js.map": "/are-you-there/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b90f3c2b.js"
+  ]
+}
